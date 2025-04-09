@@ -1,0 +1,58 @@
+.heading {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    font-size: 50px;
+    
+}
+#Nav {
+    border-style: solid;
+    border-radius: 1px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+#q {
+    padding: 10px;
+    border-style: solid;
+    border-bottom: 0;
+    border-top: 0;
+    border-left: 0;
+    font-size: 17px;
+    font-family: cursive;
+}
+#lelem {
+    border-right: 0;
+    padding: 10px;
+    border-style: solid;
+    border-bottom: 0;
+    border-top: 0;
+    border-left: 0;
+    font-size: 17px;
+    font-family: cursive;
+}
+#menu {
+    height: 100000px;
+    
+
+
+}
+#img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding-top: 50px;
+}
+#square {
+    border-style: solid;
+    display: block;
+    margin: auto;
+    height: 100px;
+    margin-top: 10px;
+    border-width: 10;
+    border-radius: 25px;
+    
+}
+h4 {
+    text-align: center;
+}
